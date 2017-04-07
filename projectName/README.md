@@ -31,8 +31,11 @@
 ## 项目启动
 
  * npm install
- * serve with hot reload at localhost:8080
  * npm run dev
+ * serve with hot reload at localhost:8080
+ 
+## 打包项目
+
  * 手动在主目录中创建一个dist文件，用来容乃打包压缩后的文件
  * npm run build
  * npm run build --report
