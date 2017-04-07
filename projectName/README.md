@@ -12,18 +12,18 @@
 * src/                           【源文件】
     - data/                      【测试数据】
     - assets/                    【资源文件】
-    - components                 【组件文件】
-    - views                      【页面文件】
-    - router                    【路由文件】
-    - directives                【指令文件】
-    - filters                   【过滤器文件】
-*  static                       【静态资源目录】
-* .babelrc                      【Bower 配置文件】
-* .editorconfig                 【编辑器统一配置文件】
-* .gitignore                    【gitignore 文件】
-* package.json                  【npm 配置文件】
-* README.md                     【项目说明】
-* index.html                    【项目人口文件】
+    - components/                【组件文件】
+    - views/                     【页面文件】
+    - router /                   【路由文件】
+    - directives/                【指令文件】
+    - filters/                   【过滤器文件】
+*  static                        【静态资源目录】
+* .babelrc                       【Bower 配置文件】
+* .editorconfig                  【编辑器统一配置文件】
+* .gitignore                     【gitignore 文件】
+* package.json                   【npm 配置文件】
+* README.md                      【项目说明】
+* index.html                     【项目人口文件】
 * LICENSE
 
 ## 项目启动
