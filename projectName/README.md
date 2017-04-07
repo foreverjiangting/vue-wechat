@@ -13,6 +13,8 @@
     - data/                      【测试数据】
     - assets/                    【资源文件】
     - components/                【组件文件】
+      - common/                  【公共组件】
+      - login/                   【用户登录组件】
     - views/                     【页面文件】
     - router /                   【路由文件】
     - directives/                【指令文件】
