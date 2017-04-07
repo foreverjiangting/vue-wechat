@@ -1,11 +1,16 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    
+    <mt-button
+        type="primary"
+        @click="sheetVisible = true">
+        测试Mint-UI
+    </mt-button>
   </div>
 </template>
 
 <script>
+import { Toast, MessageBox } from 'mint-ui';
 export default {
   name: 'hello',
   data () {

@@ -20,7 +20,7 @@
     - directives/                【指令文件】
     - filters/                   【过滤器文件】
 *  static                        【静态资源目录】
-* .babelrc                       【Bower 配置文件】
+* .babelrc                       【配置一些文件】
 * .editorconfig                  【编辑器统一配置文件】
 * .gitignore                     【gitignore 文件】
 * package.json                   【npm 配置文件】
