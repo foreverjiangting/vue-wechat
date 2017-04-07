@@ -1,19 +1,19 @@
 
 ## 项目结构
 
-* build/                        【开发的服务配置】
-    -dev-server.js              【开发的服务配置】
-    -webpack.dev-conf.js        【开发的Webpack 配置文件】
-    -webpack.prod-conf.js       【生产的Webpack 配置文件】
-    -webpack.base-conf.js       【基本的Webpack 配置文件】
-* config/                       【环境变量和入口，出口配置】                       
-* node_modules/                 【node 依赖】
-* dist/                         【项目build目录，最终只需要dist文件即可】
-* src/                          【源文件】
-    - data/                     【测试数据】
-    - assets/                   【资源文件】
-    - components                【组件文件】
-    - views                     【页面文件】
+* build/                         【开发的服务配置】
+    - dev-server.js              【开发的服务配置】
+    - webpack.dev-conf.js        【开发的Webpack 配置文件】
+    - webpack.prod-conf.js       【生产的Webpack 配置文件】
+    - webpack.base-conf.js       【基本的Webpack 配置文件】
+* config/                        【环境变量和入口，出口配置】                       
+* node_modules/                  【node 依赖】
+* dist/                          【项目build目录，最终只需要dist文件即可】
+* src/                           【源文件】
+    - data/                      【测试数据】
+    - assets/                    【资源文件】
+    - components                 【组件文件】
+    - views                      【页面文件】
     - router                    【路由文件】
     - directives                【指令文件】
     - filters                   【过滤器文件】
